@@ -1,0 +1,30 @@
+body{
+    padding: 50px 100px;
+}
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: wheat;
+    padding: 10px;
+    margin: 0px;
+}
+#textbox1{
+height: max-content;
+width: max-content;
+padding: 20dp;
+margin: 20dp;
+
+border-color: blueviolet;
+}
+p{
+    text-align: center;
+    background-color: blueviole;
+    font-weight: bold;
+    color:black;
+    padding: 10px;
+    background-color: blueviolet;
+    margin: 0;
+    padding: 10px;
+
+}
